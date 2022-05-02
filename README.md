@@ -1,7 +1,7 @@
 Hi 👋 My name is Diego Pereyra
 ==============================
 
-Web developer learner
+Web developer 
 ---------------------
 
 I started working in 2017 with Cobol as first job, but I'm trying to migrate to new techs. Thats why Im learning React. 😄
