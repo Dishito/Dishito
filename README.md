@@ -4,7 +4,7 @@ Hi 👋 My name is Diego Pereyra
 Web developer learner
 ---------------------
 
-I started working with Cobol since 2017, but I started to learn React.
+I started working in 2017 with Cobol as first job, but I'm trying to migrate to new techs. Thats why Im learning React. 😄
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [diego.96.pereyra@gmail.com](mailto:diego.96.pereyra@gmail.com)
