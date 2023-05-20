@@ -8,7 +8,7 @@ I started working in 2017 with Cobol as first job, but I'm trying to migrate to 
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [diego.96.pereyra@gmail.com](mailto:diego.96.pereyra@gmail.com)
-* 🧠  I'm learning React, Python, MongoDB
+* 🧠  I'm learning React, Node.js, Spring and MongoDB
 
 ### Skills
 
